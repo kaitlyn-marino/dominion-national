@@ -198,7 +198,7 @@ img.hero {
   justify-content: center;
   height: 180px;
   width: 220px;
-  margin: 20px 10px;
+  margin: 20px 10px 10px 30px;
 }
 .half-height-first {
   display: flex;
